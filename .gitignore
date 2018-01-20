@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+
+*.ctxt
+*.iml
+.mtj.tmp/
+/**/target/
+/.idea/
+/**/logs/
+/out/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
