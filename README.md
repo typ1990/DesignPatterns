@@ -1,1 +1,3 @@
 observerpattern 观察者模式
+
+responsibilitychainpattern 责任链模式
