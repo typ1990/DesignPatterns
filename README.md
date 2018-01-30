@@ -1,3 +1,5 @@
 observerpattern 观察者模式
 
 responsibilitychainpattern 责任链模式
+
+strategypattern 策略模式
